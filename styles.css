@@ -10,3 +10,6 @@
 .recipe-link{
     color: rgb(186, 193, 204);
 }
+head {
+    visibility: none;
+}
