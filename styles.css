@@ -1,0 +1,12 @@
+*{
+    background-color: #032f4c;
+    color: whitesmoke;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    border: 25px;
+    margin: 15px;
+    display: block;
+    text-align: center;
+}
+.recipe-link{
+    color: rgb(186, 193, 204);
+}
