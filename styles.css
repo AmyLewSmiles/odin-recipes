@@ -1,15 +1,12 @@
-*{
+body *{
     background-color: #032f4c;
     color: whitesmoke;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
-    border: 25px;
-    margin: 15px;
-    display: block;
     text-align: center;
+    display: block;
+    padding: .5rem;
 }
 .recipe-link{
     color: rgb(186, 193, 204);
 }
-head {
-    visibility: none;
-}
+
